@@ -4,13 +4,15 @@ cARds is a simple AR game, in which you can focus your AR camera on given playin
 
 1) Joker card
 
-![](https://github.com/MihailCiobu/cARds/blob/master/Jokur.jpeg?raw=true)
+<img src="https://github.com/MihailCiobu/cARds/blob/master/Jokur.jpeg" width="400"/>
 
 2) Ace of Spades
 
-<img src="https://github.com/MihailCiobu/cARds/blob/master/Jokur.jpeg" width="250"/>
+<img src="https://github.com/MihailCiobu/cARds/blob/master/Ace of Spades.jpeg" width="400"/>
 
 3) Jack of Hearts
+
+<img src="https://github.com/MihailCiobu/cARds/blob/master/Jack of Hearts.jpeg" width="400"/>
 
 This games features each of the 4 user interactions, namely:
 
