@@ -8,6 +8,7 @@ cARds is a simple AR game, in which you can focus your AR camera on given playin
 
 2) Ace of Spades
 
+<img src="https://github.com/MihailCiobu/cARds/blob/master/Jokur.jpeg" width="250"/>
 
 3) Jack of Hearts
 
